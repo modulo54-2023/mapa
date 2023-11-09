@@ -9,6 +9,3 @@ alteração feita pelo colaborador principal
 
 # segunda alteração
 alteração feita pelo segundo colaborador
-
-# 3 terceira alteração
-alteração feita pelo terceiro colaborador 
